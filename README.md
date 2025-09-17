@@ -21,6 +21,7 @@
 ## Works
 | 作品名 | 概要 | 使用技術 |
 | ----- | ----- | ----- |
+| ビリダコドッカン | BSGJ2025 | Unity,C# |
 
 ## Others
 Here is editing...
