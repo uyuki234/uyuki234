@@ -4,9 +4,9 @@
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uyuki234&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
     <img src="https://github-readme-stats.vercel.app/api?username=uyuki234&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+    ↑Publicリポジトリのみ反映↑
   </a>
 </div>
-
 
 [//]: # (これはコメントです)
 <!--
