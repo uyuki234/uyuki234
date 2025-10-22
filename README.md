@@ -19,9 +19,9 @@
 -->
 
 ## Works
-| 作品名 | 概要 | 使用技術 |
-| ----- | ----- | ----- |
-| ビリダコドッカン | BSGJ2025 | Unity,C# |
+| 作品名 | 概要 | 使用技術 | リンク |
+| ----- | ----- | ----- | ----- |
+| ビリダコドッカン | BSGJ2025 | Unity,C# | https://github.com/jaga-Nick/BSGJ_W-07 |
 
 ## Others
 Here is editing...
