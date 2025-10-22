@@ -18,12 +18,8 @@
 </div>
 -->
 
-## 😈[Works](Works.md)
-
-## Works
-| 作品名 | 概要 | 使用技術 | リンク |
-| ----- | ----- | ----- | ----- |
-| ビリダコドッカン | BSGJ2025 | Unity,C# | https://github.com/jaga-Nick/BSGJ_W-07 |
+## [Works](Works.md)
+↑↑↑Everyone, check this out!﻿↑↑↑
 
 ## Others
 Here is editing...
