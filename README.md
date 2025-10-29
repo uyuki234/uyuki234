@@ -18,8 +18,11 @@
 </div>
 -->
 
-## [Works](Works.md)
-↑↑↑Everyone, check this out!﻿↑↑↑
+## Portfolio
+[View my projects: games and web applications](Works.md)
+
+## Tech stack
+[My tech stack](Tech-stack.md)
 
 ## Others
 Here is editing...
