@@ -1,3 +1,7 @@
+<p float="middle">
+  <img src="https://github.com/tottie000/GopherIllustrations/blob/main/Gopher_Illustrations/goroutine.png?raw=true">
+</p>
+
 <!--
 ## Activity
 
