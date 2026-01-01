@@ -1,3 +1,5 @@
+2026年の抱負：2000 contributions ↑
+
 <p float="middle">
   <img src="https://github.com/tottie000/GopherIllustrations/blob/main/Gopher_Illustrations/goroutine.png?raw=true">
 </p>
